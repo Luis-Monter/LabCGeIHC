@@ -1,0 +1,394 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# File Created: 28.09.2024 22:21:58
+
+newmtl CuerpoBocho_CuerpoBocho_CuerpoBocho_Vocho_VWBeetle_Green
+	Kd 0.3255 0.7686 0.7098
+	Ks 1.0000 1.0000 1.0000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr -19.4800
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl CuerpoBocho_CuerpoBocho_CuerpoBocho_Vocho_VWBeetle_Interior
+	Kd 0.6706 0.6667 0.6196
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 0.6800
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl CuerpoBocho_CuerpoBocho_CuerpoBocho_Vocho_VWBeetle_crome
+	Kd 0.1882 0.1373 0.0588
+	Ks 1.0000 1.0000 1.0000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr -4.4875
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl CuerpoBocho_CuerpoBocho_CuerpoBocho_Vocho_VWBeetle_Interior0
+	Kd 0.6706 0.6667 0.6196
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 0.6800
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl CuerpoBocho_CuerpoBocho_CuerpoBocho_Vocho_VWBeetle_Glass
+	Kd 0.0039 0.1333 0.1569
+	Ks 1.0000 1.0000 1.0000
+	Tr 0.5000
+	d 0.5000
+	Tf 0.0000 0.0000 0.0000
+	Pr 0.2648
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl CuerpoBocho_CuerpoBocho_CuerpoBocho_Vocho_VWBeetle_Black
+	Kd 0.1843 0.1843 0.1843
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 0.6800
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl CuerpoBocho_CuerpoBocho_CuerpoBocho_Vocho_VWBeetle_interior1
+	Kd 0.5961 0.5922 0.4980
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 0.8944
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl CuerpoBocho_CuerpoBocho_CuerpoBocho_Vocho_VWBeetle_Black0
+	Kd 0.1843 0.1843 0.1843
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 0.6800
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl CuerpoBocho_CuerpoBocho_CuerpoBocho_Vocho_VWBeetle_Glass0
+	Kd 0.9686 0.9647 0.9608
+	Ks 1.0000 1.0000 1.0000
+	Tr 1.0000
+	d 0.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr -19.4800
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl CuerpoBocho_CuerpoBocho_CuerpoBocho_Vocho_VWBeetle_Crome0
+	Kd 0.1882 0.1294 0.0392
+	Ks 1.0000 1.0000 1.0000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr -4.4875
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl CuerpoBocho_CuerpoBocho_CuerpoBocho_Vocho_VWBeetle_Crome1
+	Kd 0.1882 0.1294 0.0392
+	Ks 1.0000 1.0000 1.0000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr -4.4875
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl CuerpoBocho_CuerpoBocho_CuerpoBocho_Vocho_VWBeetle_Orange
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr -19.4800
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl CuerpoBocho_CuerpoBocho_CuerpoBocho_Vocho_VWBeetle_Place
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 0.6800
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl CuerpoBocho_CuerpoBocho_CuerpoBocho_Vocho_VWBeetle_Black2
+	Kd 0.2157 0.2157 0.2157
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 0.6800
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl CuerpoBocho_CuerpoBocho_CuerpoBocho_Vocho_VWBeetle_Green0
+	Kd 0.3255 0.7686 0.7098
+	Ks 1.0000 1.0000 1.0000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr -19.4800
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl CuerpoBocho_CuerpoBocho_CuerpoBocho_Vocho_VWBeetle_Place0
+	Kd 0.7000 0.7000 0.7000
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 0.6800
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl CuerpoBocho_CuerpoBocho_CuerpoBocho_Vocho_VWBeetle_blue
+	Kd 0.3255 0.7686 0.7098
+	Ks 1.0000 1.0000 1.0000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr -19.4800
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl CuerpoBocho_CuerpoBocho_CuerpoBocho_Vocho_VWBeetle_Red_1
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr -3.4572
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl CuerpoBocho_CuerpoBocho_CuerpoBocho_Vocho_VWBeetle_Red_2
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr -19.4800
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl CuerpoBocho_CuerpoBocho_CuerpoBocho_Vocho_VWBeetle_Turquese_blue
+	Kd 0.3255 0.7686 0.7098
+	Ks 1.0000 1.0000 1.0000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr -19.4800
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl CuerpoBocho_CuerpoBocho_CuerpoBocho_Vocho_VWBeetle_Black3
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 0.6800
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl CuerpoBocho_CuerpoBocho_CuerpoBocho_Vocho_VWBeetle_Cream
+	Kd 0.9843 0.8784 0.8078
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr -0.5759
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl CuerpoBocho_CuerpoBocho_CuerpoBocho_Vocho_VWBeetle_Interior_grids
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 0.6800
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl CuerpoBocho_CuerpoBocho_CuerpoBocho_Vocho_VWBeetle_Gray
+	Kd 0.7000 0.7000 0.7000
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 0.6800
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl CuerpoBocho_CuerpoBocho_CuerpoBocho_Vocho_VWBeetle_Km
+	Kd 0.7000 0.7000 0.7000
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 0.6800
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl CuerpoBocho_CuerpoBocho_CuerpoBocho_Vocho_VWBeetle_Crome2
+	Kd 0.1882 0.1294 0.0392
+	Ks 1.0000 1.0000 1.0000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr -4.4875
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl CuerpoBocho_CuerpoBocho_CuerpoBocho_Vocho_VWBeetle_Gray_2
+	Kd 0.2941 0.2941 0.2941
+	Ks 0.5059 0.5059 0.5059
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr -2.8802
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl CuerpoBocho_CuerpoBocho_CuerpoBocho_Vocho_VWBeetle_Gray0
+	Kd 0.7000 0.7000 0.7000
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 0.6800
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
