@@ -1,0 +1,43 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# File Created: 19.10.2024 23:29:31
+
+mtllib HeliceTrasera.mtl
+
+#
+# object SmallDisc_mesh
+#
+
+v  0.5882 3.2671 -6.9349
+v  0.5882 3.2671 -5.8256
+v  0.5882 2.1578 -6.9349
+v  0.5882 2.1578 -5.8256
+v  0.5882 1.0485 -6.9349
+v  0.5882 1.0485 -5.8256
+v  0.5882 3.2671 -8.0443
+v  0.5882 2.1578 -8.0443
+v  0.5882 1.0485 -8.0443
+# 9 vertices
+
+vn 1.0000 0.0000 -0.0000
+# 1 vertex normals
+
+vt 0.9946 1.0127 0.0000
+vt 0.9946 2.0018 0.0000
+vt 0.0054 1.0127 0.0000
+vt 0.0054 2.0018 0.0000
+# 4 texture coords
+
+o SmallDisc_mesh
+g SmallDisc_mesh
+usemtl Animal_Control_Chopper_Material_000624
+s 1
+f 1/1/1 2/2/1 3/3/1 
+f 2/2/1 4/4/1 3/3/1 
+f 3/3/1 4/1/1 5/4/1 
+f 4/1/1 6/2/1 5/4/1 
+f 7/2/1 1/4/1 8/1/1 
+f 1/4/1 3/3/1 8/1/1 
+f 8/4/1 3/3/1 9/2/1 
+f 3/3/1 5/1/1 9/2/1 
+# 8 faces
+
