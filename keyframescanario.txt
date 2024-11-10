@@ -1,0 +1,125 @@
+KeyFrame[0].movCanario_x = 0.000000f;
+KeyFrame[0].movCanario_y = 0.000000f;
+KeyFrame[0].movCanario_z = 0.000000f;
+KeyFrame[0].giroCanario = 0.000000;
+
+KeyFrame[1].movCanario_x = 0.000000f;
+KeyFrame[1].movCanario_y = 1.000000f;
+KeyFrame[1].movCanario_z = 1.000000f;
+KeyFrame[1].giroCanario = 0.000000;
+
+KeyFrame[2].movCanario_x = 0.000000f;
+KeyFrame[2].movCanario_y = 2.000000f;
+KeyFrame[2].movCanario_z = 2.000000f;
+KeyFrame[2].giroCanario = 0.000000;
+
+KeyFrame[3].movCanario_x = 0.000000f;
+KeyFrame[3].movCanario_y = 1.000000f;
+KeyFrame[3].movCanario_z = 3.000000f;
+KeyFrame[3].giroCanario = 0.000000;
+
+KeyFrame[4].movCanario_x = 0.000000f;
+KeyFrame[4].movCanario_y = 0.000000f;
+KeyFrame[4].movCanario_z = 4.000000f;
+KeyFrame[4].giroCanario = 0.000000;
+
+KeyFrame[5].movCanario_x = 0.000000f;
+KeyFrame[5].movCanario_y = 1.000000f;
+KeyFrame[5].movCanario_z = 5.000000f;
+KeyFrame[5].giroCanario = 0.000000;
+
+KeyFrame[6].movCanario_x = 0.000000f;
+KeyFrame[6].movCanario_y = 2.000000f;
+KeyFrame[6].movCanario_z = 6.000000f;
+KeyFrame[6].giroCanario = 0.000000;
+
+KeyFrame[7].movCanario_x = 0.000000f;
+KeyFrame[7].movCanario_y = 1.000000f;
+KeyFrame[7].movCanario_z = 7.000000f;
+KeyFrame[7].giroCanario = 0.000000;
+
+KeyFrame[8].movCanario_x = 0.000000f;
+KeyFrame[8].movCanario_y = 0.000000f;
+KeyFrame[8].movCanario_z = 8.000000f;
+KeyFrame[8].giroCanario = 0.000000;
+
+KeyFrame[9].movCanario_x = 0.000000f;
+KeyFrame[9].movCanario_y = 0.000000f;
+KeyFrame[9].movCanario_z = 8.000000f;
+KeyFrame[9].giroCanario = -90.000000;
+
+KeyFrame[10].movCanario_x = -1.000000f;
+KeyFrame[10].movCanario_y = 1.000000f;
+KeyFrame[10].movCanario_z = 8.000000f;
+KeyFrame[10].giroCanario = -90.000000;
+
+KeyFrame[11].movCanario_x = -2.000000f;
+KeyFrame[11].movCanario_y = 2.000000f;
+KeyFrame[11].movCanario_z = 8.000000f;
+KeyFrame[11].giroCanario = -90.000000;
+
+KeyFrame[12].movCanario_x = -3.000000f;
+KeyFrame[12].movCanario_y = 1.000000f;
+KeyFrame[12].movCanario_z = 8.000000f;
+KeyFrame[12].giroCanario = -90.000000;
+
+KeyFrame[13].movCanario_x = -4.000000f;
+KeyFrame[13].movCanario_y = 0.000000f;
+KeyFrame[13].movCanario_z = 8.000000f;
+KeyFrame[13].giroCanario = -90.000000;
+
+KeyFrame[14].movCanario_x = -4.000000f;
+KeyFrame[14].movCanario_y = 0.000000f;
+KeyFrame[14].movCanario_z = 8.000000f;
+KeyFrame[14].giroCanario = 0.000000;
+
+KeyFrame[15].movCanario_x = -4.000000f;
+KeyFrame[15].movCanario_y = 1.000000f;
+KeyFrame[15].movCanario_z = 9.000000f;
+KeyFrame[15].giroCanario = 0.000000;
+
+KeyFrame[16].movCanario_x = -4.000000f;
+KeyFrame[16].movCanario_y = 2.000000f;
+KeyFrame[16].movCanario_z = 10.000000f;
+KeyFrame[16].giroCanario = 0.000000;
+
+KeyFrame[17].movCanario_x = -4.000000f;
+KeyFrame[17].movCanario_y = 1.000000f;
+KeyFrame[17].movCanario_z = 11.000000f;
+KeyFrame[17].giroCanario = 0.000000;
+
+KeyFrame[18].movCanario_x = -4.000000f;
+KeyFrame[18].movCanario_y = 0.000000f;
+KeyFrame[18].movCanario_z = 12.000000f;
+KeyFrame[18].giroCanario = 0.000000;
+
+KeyFrame[19].movCanario_x = -3.999988f;
+KeyFrame[19].movCanario_y = -0.000000f;
+KeyFrame[19].movCanario_z = 12.000094f;
+KeyFrame[19].giroCanario = 90.000000;
+
+KeyFrame[20].movCanario_x = -2.999988f;
+KeyFrame[20].movCanario_y = 1.000000f;
+KeyFrame[20].movCanario_z = 12.000094f;
+KeyFrame[20].giroCanario = 90.000000;
+
+KeyFrame[21].movCanario_x = -1.999988f;
+KeyFrame[21].movCanario_y = 2.000000f;
+KeyFrame[21].movCanario_z = 12.000094f;
+KeyFrame[21].giroCanario = 90.000000;
+
+KeyFrame[22].movCanario_x = -0.999988f;
+KeyFrame[22].movCanario_y = 1.000000f;
+KeyFrame[22].movCanario_z = 12.000094f;
+KeyFrame[22].giroCanario = 90.000000;
+
+KeyFrame[23].movCanario_x = 0.000012f;
+KeyFrame[23].movCanario_y = 0.000000f;
+KeyFrame[23].movCanario_z = 12.000094f;
+KeyFrame[23].giroCanario = 90.000000;
+
+KeyFrame[24].movCanario_x = 0.000012f;
+KeyFrame[24].movCanario_y = 0.000000f;
+KeyFrame[24].movCanario_z = 12.000094f;
+KeyFrame[24].giroCanario = 0.000000;
+
